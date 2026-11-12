@@ -1,0 +1,8 @@
+simv*
+csrc/
+*.daidir/
+*.vcd
+*.fsdb
+*.vpd
+__pycache__/
+.DS_Store
